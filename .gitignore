@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Database files
+*.db
+
+# Build output
+dist/
+release/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# Agent and temporary files
+.agent/
+*.timestamp*
+*.log
